@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a{
+    text-decoration: none;
+}
+ul, ol, li {
+    list-style: none;
+}
+
+html, body {
+    scroll-behavior: smooth;
+}
+header {
+    position: fixed;
+    width: 100vw;
+    background-color: #333;
+    padding: 16px;
+}
+header nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+header nav ul a {
+    color: white;
+    padding: 8px;
+    transition: 0.5s;
+}
+header nav ul a:hover {
+    /* border-bottom: solid black; */
+    color: black;
+    background-color: aqua;
+}
+
+.grupo {
+    height: 100dvh;
+}
+#azul {
+    background-color: blue;
+}
+#verde {
+    background-color: green;
+}
+#amarelo {
+    background-color: yellow;
+}
+#laranja {
+    background-color: orange;
+}
+#vermelho {
+    background-color: red;
+}
