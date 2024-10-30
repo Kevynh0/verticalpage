@@ -31,24 +31,30 @@ header nav ul a {
 header nav ul a:hover {
     /* border-bottom: solid black; */
     color: black;
-    background-color: aqua;
+    background-color: rgb(255, 145, 0);
 }
 
 .grupo {
     height: 100dvh;
 }
-#azul {
-    background-color: blue;
+#chaves {
+    background-color: #FABC76;
 }
-#verde {
-    background-color: green;
+#kiko {
+    background-color: #B23030;
 }
-#amarelo {
-    background-color: yellow;
+#chiquinha {
+    background-color: #3BBA45;
 }
-#laranja {
-    background-color: orange;
+#madruga {
+    background-color: #1888FF;
 }
-#vermelho {
+
+
+
+
+
+
+/* #vermelho {
     background-color: red;
-}
+} */
